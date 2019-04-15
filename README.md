@@ -1,1 +1,1 @@
-# minagolang
+# Learn Go Lang by Doing
